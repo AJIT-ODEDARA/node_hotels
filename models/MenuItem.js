@@ -32,4 +32,6 @@ const menuItemSchema = new mongoose.Schema({
 const MenuItem = mongoose.model("MenuItem", menuItemSchema);
 
 
+
+//THIS IS GIT TESTING COMMENT 
 module.exports = MenuItem;
